@@ -1,2 +1,2 @@
 # ASCII_Art
-Makes different letters (Z, C, T, and L) of user-entered sizes
+Makes the letters in the alphabet (currently only Z, C, T, and L) of user-entered sizes
